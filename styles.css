@@ -11,7 +11,7 @@ body {
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(250,150,0,100);
 }
 
 header {
@@ -20,7 +20,7 @@ header {
 }
 
 header h1 {
-    color: #333;
+    color: red;
 }
 
 main {
@@ -30,7 +30,7 @@ main {
 #apology img {
     max-width: 100%;
     border-radius: 8px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    box-shadow: 0 0 8px rgba(0,200,0,100);
     margin-bottom: 20px;
 }
 
